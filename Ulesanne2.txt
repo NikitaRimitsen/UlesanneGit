@@ -1,6 +1,6 @@
 2. Ülesanne
 Valige tabelist lapsed, kõik nimed algavad tähega A ja kuvage nende kasv.
 
-CELECT nimi, pikkus 
+SELECT nimi, pikkus 
 FROM laps
 WHERE nimi LIKE 'A%'
