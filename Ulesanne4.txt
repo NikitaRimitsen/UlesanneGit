@@ -1,0 +1,6 @@
+4. What character is used to represent the end tag?
+
+A. *
+B. <
+C. /
+D. ^
